@@ -2,6 +2,9 @@
 #jp_ads_lcl, #jp_ads_IM, #jpwelcomeadlsq, #jp_ymail_freebanner_right1, #jp_ads_YSP, #jpinfobox, #jp_ymail_promo_right, #jp_ads_ult, #slot_UHD8, .ad_NW, #theAd, .jp_ads_im_msgpane, .jp_ads_im_msgpane_header, #jp_ads_N, #jp_unread_contact_messages, #jp_vitalityModule, #slot_MON_sent, #jp_ads_sc_module, #jp_ads_im_sent, .send-confirm .col-b {
 	display:none !important;
 }
+#theAd{
+	width: 0px !important;
+}
 div.yjmthproplogoarea {
 	margin-top: 0 !important;
 	top: 0 !important;
