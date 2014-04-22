@@ -1,0 +1,33 @@
+@-moz-document domain("mail.yahoo.co.jp"){
+#jp_ads_lcl, #jp_ads_IM, #jpwelcomeadlsq, #jp_ymail_freebanner_right1, #jp_ads_YSP, #jpinfobox, #jp_ymail_promo_right, #jp_ads_ult, #slot_UHD8, .ad_NW, #theAd, .jp_ads_im_msgpane, .jp_ads_im_msgpane_header, #jp_ads_N, #jp_unread_contact_messages, #jp_vitalityModule, #slot_MON_sent, #jp_ads_sc_module, #jp_ads_im_sent, .send-confirm .col-b {
+	display:none !important;
+}
+div.yjmthproplogoarea {
+	margin-top: 0 !important;
+	top: 0 !important;
+}
+div.yjmthloginarea {
+	top: 10px !important;
+}
+div.yjmthlinkarea {
+	top: 10px !important;
+}
+div#shellnavigation{
+	top: 136px !important;
+}
+.nav-bar{
+	top: 50px !important;
+}
+#main{
+	top: 79px !important;
+}
+#shellcontent{
+	top: 110px !important;
+	right: 0 !important;
+}
+#galaxyPageContainer{
+.empty-folder .col-a, .send-confirm .col-a {
+	margin-right: 17px !important;
+	max-width: 100% !important;
+}
+} /* end -moz-document*/
