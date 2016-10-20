@@ -9,7 +9,7 @@
 1. bookmark this page
 1. edit the bookmark as below
 ```javascript
-javascript:!function(a){var s=document.createElement('script');s.src=a;document.body.appendChild(s);}('https://souji1103.github.io/WebTools/build/gfhskill.js');
+javascript:!function(a){var s=document.createElement('script');s.src=a;document.body.appendChild(s);}('https://souji1103.github.io/WebTools/build/gfhsdh.js');
 ```
 1. transit gf hunter group edit page
 
